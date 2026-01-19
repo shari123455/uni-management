@@ -1,5 +1,5 @@
 # University Management System
-
+![image alt](https://github.com/shari123455/uni-management/blob/038fe2932b575f4e6f2148b14d2353d9931e57c5/Screenshot%202026-01-19%20152841.jpg)
 ## Description
 A Python GUI application built with Tkinter and  SQLite  to help universities manage student accounts, records, and communication efficiently. This project demonstrates skills in Python programming, database management, and GUI development.
 
